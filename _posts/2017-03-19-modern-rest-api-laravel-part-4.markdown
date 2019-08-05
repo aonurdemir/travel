@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "A modern REST API in Laravel 5 Part 4: Authentication using Laravel Passport"
-subtitle:   "Securely authenticate users to use your API using OAuth 2"
-date:       2017-03-19 10:00:00 +0200
-author:     "Esben Petersen"
+title:      "First Post"
+subtitle:   "First Post subtitle"
+date:       2019-08-05 10:00:00 +0200
+author:     "Deniz Demir"
 header-img: "img/post-bg-06.jpg"
 ---
 
