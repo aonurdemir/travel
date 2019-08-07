@@ -3,7 +3,7 @@ layout:     post
 title:      "Haftasonu için Tekirdağ Rehberi"
 date:       2019-08-05 10:00:00 +0200
 author:     "Deniz Demir"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/tekirdag-yazi.jpg"
 ---
 <p>
 Doğayla kucaklaşmış üzüm bağları, bu bağlarda üretilen farklı dokuda şarap çeşitleri ve İstanbul’un kaosundan günübirliğine de olsa kaçabileceğiniz ve artık tatil beldesi haline gelmiş ilçeler..Hem Karadeniz hem Marmara Denizi’ne kıyısı olan nadir şehirlerimizden biri olan Tekirdağ, Trakya Bölgesi’ndeki gezilecek şehirlerin başında geliyor. İstanbul’dan kaçmak ama çok da yol yorgunluğu olmasın diyorsanız Tekirdağ tam bir kaçamak noktası. Ünlü köftesi, mavi bayraklı plajları ve hatta adrenalin dolu yamaç paraşütü noktasıyla Tekirdağ’da yapılacak birçok aktivite, görülecek birçok yer var. Biz de bu çıkış noktasıyla koyulduk yola ve kaostan bunalmış yalancı İstanbullular olarak bir haftasonumuzu Tekirdağ’da geçirdik.
