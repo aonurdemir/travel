@@ -1,7 +1,6 @@
 ---
 layout:     post
-title:      "Haftasonu Tekirdağ"
-subtitle:   "Haftasonu Tekirdağ'da şarap tadımı ve deniz kaçamağı"
+title:      "Haftasonu için Tekirdağ Rehberi"
 date:       2019-08-05 10:00:00 +0200
 author:     "Deniz Demir"
 header-img: "img/post-bg-06.jpg"
