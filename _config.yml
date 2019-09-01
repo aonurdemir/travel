@@ -1,14 +1,13 @@
 # Site settings
-title: Gezi Takımı
+title: Ofiste Değilim
 header-img: img/home-bg.jpg
-email: esbenspetersen@gmail.com
-description: "Young entrepreneur and business student. Writing B2B SaaS at Traede.com"
+email: denizemirgullari@gmail.com
+description: "Ofisler dünyasını bırakmış, kendini hayallerine adamış bir kadın."
 baseurl: ""
 url: "http://ofistedegilim.com"
-twitter_username: esbenp
-github_username:  esbenp
-facebook_username:  esbenspetersen
-timezone: Europe/Copenhagen
+twitter_username: d_emirogullari
+facebook_username:  denizemirogullari
+timezone: Europe/Istanbul
 
 # Build settings
 highlighter: rouge
