@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Bozcaada"
-date:       2019-08-05 10:00:00 +0200
+date:       2019-08-20 10:00:00 +0200
 author:     "Deniz Demir"
 header-img: "img/tekirdag-yazi.jpg"
 ---
